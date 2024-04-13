@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saif</h1>
+![Header](./github-header-image.png)
+
 <h3 align="center">Last year Embedded System Engineering Student with a Passion for Robotics, ROS Development and AI.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.globalxetfs.com.hk/campaign/ai-etfs/images/mainvisual-animation-testing-002f37.gif"> 
