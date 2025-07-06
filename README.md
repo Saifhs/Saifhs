@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h3 align="center">Robotics Software Engineer.</h3>
+<h3 align="center">Robotics Software Engineer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.globalxetfs.com.hk/campaign/ai-etfs/images/mainvisual-animation-testing-002f37.gif"> 
 
