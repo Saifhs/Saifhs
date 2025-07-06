@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h3 align="center">Last year Embedded System Engineering Student with a Passion for Robotics, ROS Development and AI.</h3>
+<h3 align="center">Robotics Software Engineer.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.globalxetfs.com.hk/campaign/ai-etfs/images/mainvisual-animation-testing-002f37.gif"> 
 
@@ -8,13 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifhs&label=Profile%20views&color=0e75b6&style=flat" alt="saifhs" /> </p>
 
-- 🌱 I’m currently learning **ROS & AI**
+- 🌱 I’m currently learning about humanoid robots, quadruped robots, and autonomous mobile robots (AMRs).
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saifhs](https://github.com/Saifhs)
-
+- ✍️ I also write technical articles on [Medium](https://medium.com/@saifhajsalem12)
 - 📫 How to reach me **saifhajsalem12@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SmxZwY_xK9EQsWVFAZ5Xhi8qfNq4Ty9s/view?usp=drive_link](https://drive.google.com/file/d/1SmxZwY_xK9EQsWVFAZ5Xhi8qfNq4Ty9s/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
